@@ -1,5 +1,3 @@
-# design-lab
-
 Design lab
 
 XBOX 360 KINECT SENSOR 
