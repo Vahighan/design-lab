@@ -14,6 +14,15 @@ Po zlokalizowaniu problemu, pobraliśmy starsze wersje sterowników, udało się
 
 Żeby upewnić się czy wszystko jest odpowiednio skonfigurowane, uruchomiliśmy jedno z narzędzi deweloperskich tj. Background Removal Basics i uzyskaliśmy pożądany efekt.
 
+# Week 2
+
+
+W tym tygodniu szukaliśmy w internecie informacji jak wygląda podłączenia Kinecta 360 do OS Linxa oraz do Raspberry pi 3.
+Po zapoznaniu się z materiałami źródłowymi, zdecydowaliśmy na wybór platformy Raspberry pi. To rozwiązanie umożliwi łatwe zaimplementowanie skaneru głębi.
+Póki nie mamy fizycznego sprzętu, zapoznaliśmy się z oficjalną dokumentacją Raspberry pi'a dotyczącej wprowadzenia do korzystania z niego.     
+
+https://www.raspberrypi.com/documentation/computers/getting-started.html
+
 
 
 
