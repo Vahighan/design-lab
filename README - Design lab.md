@@ -24,6 +24,17 @@ Póki nie mamy fizycznego sprzętu, zapoznaliśmy się z oficjalną dokumentacj�
 https://www.raspberrypi.com/documentation/computers/getting-started.html
 
 
+# Week 3 
+
+
+Zdecydowaliśmy na połączenie sensora Kinect z Linuxem przy użyciu Oracle VM VirtualBox:
+
+
+![image](https://user-images.githubusercontent.com/56031092/200191153-a53335f4-f0d5-4e17-8e47-6b111dc9b19a.png)
+
+Na ten moment podążamy wg instrukcji znajdującym się pod adresem:
+- https://www.instructables.com/Hooking-up-a-Kinect-to-your-Computer-Using-Ubuntu/
+
 
 
 
