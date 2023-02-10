@@ -82,7 +82,12 @@ $ sudo ./bin/RawKinectViewer > CalibrationData.csv
 pozostała jedynie kalibracja środowiska tj. w filmie instruktażowym w poniższym linku:
 https://www.youtube.com/watch?v=7TGF30-5KuQ
 
+# Music tiles
 
+We managed to design a music tiles program which operates using the Kinect in Java programming  language. We started with installing Microsoft SDK which is a program that contains all necessary drivers needed for the Kinect to work properly with Windows. The main program we used was Processing software.
+
+Working project presentation:
+https://youtu.be/wprBt0xUN9M
 
 
 
